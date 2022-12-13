@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "251920101455",
+    "project_id": "newszilla-2b0e9",
+    "storage_bucket": "newszilla-2b0e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251920101455:android:de71c7665cc22f35f67a3a",
+        "android_client_info": {
+          "package_name": "com.example.thesun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251920101455-7tktfaa1jl11t82mgflcm3uo56l8jq82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSnBL1C77P1CI7IYp6XnvGAax44yIqEsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251920101455-7tktfaa1jl11t82mgflcm3uo56l8jq82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
